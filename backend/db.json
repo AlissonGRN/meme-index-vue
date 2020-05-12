@@ -1,0 +1,36 @@
+{
+  "gifs": [
+    {
+      "id": 1,
+      "name": "dancing cat",
+      "url": "https://external-preview.redd.it/Ibp-qVYxGk21FP4LOdtqShe5rrPlAom4lmW6-3yJoks.gif?format=mp4&s=c1394e26470b5d44ea0597442c4f0bd2441b4c8f"
+    },
+    {
+      "id": 2,
+      "name": "jim",
+      "url": "https://external-preview.redd.it/rLAkNqJ0h7sDBq3xzLiy7hEvTskMyRx9f1gBlEzzM4o.gif?format=mp4&s=2f3b9dc8573bb84b81dd7f467c7b3912fe021338"
+    },
+    {
+      "name": "asshole cat",
+      "url": "https://theinspiringdad.com/wp-content/uploads/2019/04/IMG_2158.mov",
+      "id": 3
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "name": "cool smoking cat",
+      "url": "https://i.pinimg.com/564x/91/1b/6a/911b6a2a698d77ff80cbe3f71f0d47b3.jpg"
+    },
+    {
+      "name": "sad banana cat",
+      "url": "https://i.pinimg.com/236x/7d/61/22/7d6122f6e7d35fd6ab6ec4e6dd7efe5a.jpg",
+      "id": 2
+    },
+    {
+      "name": "cat loading",
+      "url": "https://i.pinimg.com/236x/e5/bf/a6/e5bfa6e7f653cc60661fdc7fe7334038.jpg",
+      "id": 3
+    }
+  ]
+}
